@@ -1,3 +1,5 @@
+#this is one of the pattern two pointer
+
 def sorted(self,arr):
     left,right=0,len(arr)-1
     while left<right:
